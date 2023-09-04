@@ -1,3 +1,5 @@
+#WAP to find the frequency of characters in a string.
+
 str1="this is a python programming lab"
 all_freq={}
 for i in str1:
